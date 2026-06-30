@@ -1,1 +1,16 @@
-
+bory{
+    background-color: #3E1A5E;
+    color: #E6D643;
+}
+header{
+background-color: sandybrown;
+color: deepskyblue;
+}
+section{
+    background-color: firebrick;
+    color: tomato;
+}
+footer{
+    background-color: chocolate;
+    color: darkred;
+}
