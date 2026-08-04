@@ -6,12 +6,20 @@ body{
 header{
 background-color: deepskyblue;
 color: deepskyblue;
+text-align: center;
+padding: 30px
+
 }
-section{
-    background-color: deepskyblue;
-    color: deepskyblue;
+
+h1{
+    font-size: 36px;
 }
-footer{
-    background-color: deepskyblue;
-    color: deepskyblue;
+
+h2{
+    color: #c02929;
+}
+
+p{
+    font-size: 18px;
+    line-height: 1.6;
 }
