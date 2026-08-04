@@ -1,17 +1,17 @@
 body{
     background-color: #3E1A5E;
-    color: #E6D643;
+    color: deepskyblue;
     font-family: Arial, sans-serif;
 }
 header{
-background-color: sandybrown;
+background-color: deepskyblue;
 color: deepskyblue;
 }
 section{
-    background-color: firebrick;
-    color: tomato;
+    background-color: deepskyblue;
+    color: deepskyblue;
 }
 footer{
-    background-color: chocolate;
-    color: darkred;
+    background-color: deepskyblue;
+    color: deepskyblue;
 }
