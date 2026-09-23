@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 {
-    color: #f3f0f0;
+    color: #6441ff;
 }
 
 p {
@@ -29,7 +29,7 @@ nav {
 }
 
 nav a {
-    color: rgb(106, 145, 255);
+    color: rgb(0, 58, 219);
     text-decoration: none;
     background-color: #556bc3;
     padding: 10px 15px;
@@ -48,7 +48,7 @@ main {
 }
 
 section {
-    background-color: white;
+    background-color: rgb(58, 13, 219);
     margin: 20px;
     padding: 20px;
     border-radius: 12px;
@@ -73,7 +73,7 @@ card {
     background-color: #475575f8;
     padding: 15px;
     margin: 15px 0;
-    border-left: 6px solid #c6cefa;
+    border-left: 6px solid #1c39e0;
     border-radius: 10px;
 }
 
@@ -89,7 +89,7 @@ footer {
     margin-top: 30px;
 }
 button {
-    background-color: darkblue;
+    background-color: rgb(115, 115, 255);
     color:#222222;
     border: none;
     padding: 10px 15px;
