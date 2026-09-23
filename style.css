@@ -1,25 +1,108 @@
-body{
+body {
     background-color: #7942a8;
     color: rgb(205, 92, 250);
     font-family: Arial, sans-serif;
 }
-header{
-background-color: rgb(0, 4, 255);
-color: rgb(248, 245, 245);
-text-align: center;
-padding: 30px
 
+header {
+    background-color: rgb(0, 4, 255);
+    color: rgb(248, 245, 245);
+    text-align: center;
+    padding: 30px
 }
 
-h1{
+h1 {
     font-size: 36px;
 }
 
-h2{
+h2 {
     color: #f3f0f0;
 }
 
-p{
+p {
     font-size: 18px;
     line-height: 1.6;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+nav a {
+    color: rgb(106, 145, 255);
+    text-decoration: none;
+    background-color: #556bc3;
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin: 5px;
+    display: inline-block
+}
+
+nav a:hover {
+    background-color: #9aa9fd;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: auto;
+    border-radius: 12px;
+}
+
+figcaption {
+    text-align: center;
+    font-family: 14px;
+    color: #000000;
+    margin-top: 8px;
+}
+
+card {
+    background-color: #475575f8;
+    padding: 15px;
+    margin: 15px 0;
+    border-left: 6px solid #c6cefa;
+    border-radius: 10px;
+}
+
+card h3 {
+    margin-top: 0;
+}
+
+footer {
+    background-color: #222222;
+    color: rgb(212, 206, 250);
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
+button {
+    background-color: darkblue;
+    color:#222222;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #7942a8;
+
+}
+.curtir {
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
+    
 }
